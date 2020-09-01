@@ -4,4 +4,4 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8c65ba7a-6fc0-4ca3-a06e-3d8aadb374e4/deploy-status)](https://app.netlify.com/sites/hack-diversity-questions/deploys)
 
-Essay Questions Document for an Application to a Fellow Position at Hack.Diversity (https://www.hackdiversity.com)
+Essay Questions Document for an Application to a Fellow Position at Hack.Diversity
